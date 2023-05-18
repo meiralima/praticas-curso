@@ -1,1 +1,1 @@
-testanto commits vscode
+teste de commit diff origin master
